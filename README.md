@@ -5,4 +5,4 @@ OwnMaze.ipynb has the Maze Solver Algorithm.
 Inspired from [Attila94](https://github.com/Attila94)
 
 # Results
-![Maze Solver Result](path/to/your/image.png)
+![Maze Solver Result](ekflsam.png)
